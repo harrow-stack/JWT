@@ -4,7 +4,8 @@
 ![plot](./mindmap.png)
 
 ### Ziel der Arbeit
-Schreiben eines Tools für den Umgang mit JWT. Umgesetzt werden sowohl die grundlegenden Funktionen:
+Das Ziel ist ein Tools für den Umgang mit JWT. Es werden die gängigen Angriffe auf JWT implementiert, um somit eine umfassende Funktionalität zu bieten
+Umgesetzt werden sowohl die grundlegenden Funktionen:
 - Encoden/Decoden (Möglichkeit für die Erstellung von "defekten" JWTs)
 - Signature Verify/Sign
   
