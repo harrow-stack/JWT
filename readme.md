@@ -36,7 +36,7 @@ Es werden bekannte Schwachstellen getestet z.B.:
 - Aufzählung mit cve?
 
 
-Obwohl es einige Tools in diesem Bereich gibt, bietet kein Tool die komplette Bandbreite, die hier vorgesehen ist. Die meisten Tools bieten lediglich die grundlegende Funktionalität um mit JWTs zu arbeiten (z.B. https://jwt.io/, https://token.dev/, https://fusionauth.io/dev-tools/jwt-decoder). Andere Tools bieten einige gängige Angriffe aber besitzen keine UI oder das potential der Automatisierung fehlt.
+Obwohl es einige Tools in diesem Bereich gibt, bietet kein Tool die komplette Bandbreite, die hier vorgesehen ist. Die meisten Tools bieten lediglich die grundlegende Funktionalität um mit JWTs zu arbeiten (z.B. https://jwt.io/, https://token.dev/, https://fusionauth.io/dev-tools/jwt-decoder, jwt.ms). Andere Tools bieten einige gängige Angriffe aber besitzen keine UI oder das potential der Automatisierung fehlt.
 
 ### Typo 
 https://informatik.rub.de/abschlussarbeiten/thesis_nds/bachelor-masterthesis-eigenes-thema-vorschlagen/ 
