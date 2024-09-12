@@ -1,5 +1,12 @@
 # Expose
 
+
+## Stand der Wissenschaft 
+Tabelle mit verschiedenen Tools und verschiedenen Anforderungen -> nur meins kann alles
+
+
+
+
 ## Überblick über die Funktionalität
 ![plot](./mindmap.png)
 
